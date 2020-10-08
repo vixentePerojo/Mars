@@ -1,2 +1,3 @@
 fichero nuevo
 c1
+c2
